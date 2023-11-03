@@ -1,9 +1,9 @@
 #-------------------------------------------------------------------------
 # AUTHOR: David Bohon
-# FILENAME: title of the source file
-# SPECIFICATION: description of the program
+# FILENAME: svm.py
+# SPECIFICATION: program to build diffferent SVM models and compare their accuracy, finding the most accurate model. 
 # FOR: CS 4210- Assignment #3
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 3
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: YOU HAVE TO WORK WITH THE PYTHON LIBRARIES numpy AND pandas to complete this code.
